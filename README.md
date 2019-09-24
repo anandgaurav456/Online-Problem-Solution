@@ -10,7 +10,7 @@ There are basically two important objectives, one is to maximize the satisfactio
 In rating systems like Ola, Uber etc, there is a reciprocal rating system. In this both give each other rating. How honest are these reviews and ratings? Giving an honest review in order to help others is not very common in market. Everyone reviews everyone else but leads to high level of reciprocity. As a result, we never see an Uber driver with a rating less than three.
 
 In order to tackle this problem, a model is created which is simulated for a large population in order to see the results.  
-Everything was done on PYTHON platform which is a efficient tool for handling large datas.
+Everything was done on PYTHON platform which is an efficient tool for handling large datas.
 
 ### Creating the Model:
 A [Model](https://drive.google.com/file/d/1RRUxvIGp56bt54waffPCV2RBhS9dpOGZ/view?usp=sharing) was developed which was simulated for a large virtual population.
